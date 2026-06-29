@@ -1,16 +1,16 @@
 {
-    "name": "ARGA123-cloude/Baileys",
+    "name": "OtaXxx17/Baileys",
     "version": "2.1.7",
-    "description": "WhatsApp Modified By ARGA",
+    "description": "WhatsApp Modified By OTAX",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/ARGA123-cloude/Baileys",
+    "homepage": "https://github.com/OtaXxx17/Baileys",
     "repository": {
-        "url": "https://github.com/ARGA123-cloude/Baileys"
+        "url": "https://github.com/OtaXxx17/Baileys"
     },
     "license": "MIT",
-    "author": "ARGA",
+    "author": "Orang Biasa",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://github.com/ARGA123-cloude/Baileys/issues"
+      "url": "https://OtaXxx17/Baileys/issues"
     }
 }
